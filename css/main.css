@@ -1,0 +1,13 @@
+header{
+    background-image: url(../images/wide\ bakery.jpeg);
+    height: 350px;
+}
+
+nav ul li  {
+    border-right: 1px solid black;
+    display: inline-block;
+    width: 300px;
+}
+nav ul li a{
+    color: black;
+}
